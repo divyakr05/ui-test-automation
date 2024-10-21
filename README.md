@@ -40,6 +40,7 @@ Approach to implement the testcase:
         ■ Data: 1 GB
         ■ Validity: 7 days
         ■ Price: $4.50
-- Note : The verification will fail for Price. The actual value from UI is '4.50€'. It is verified against '$4.50' as the instructions provided
+  # Note
+  The verification will fail for Price. The actual value from UI is '4.50€'. It is verified against '$4.50' as the instructions provided
     
   
