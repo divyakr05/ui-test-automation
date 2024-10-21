@@ -5,10 +5,10 @@ This is simple ui-test-automation project created to test sample flows for airal
 - Clone the project https://github.com/divyakr05/ui-test-automation
 - Install python on your system. Download it from python.org
 - Install playwright:
-     pip install playwright
+     pip install playwright &
      playwright install
 - Install pytest and pytest-html:
-    pip install pytest
+    pip install pytest &
     pip install pytest-html
 - Open the project in any IDE
 - To execute the tests and generate the HTML report, run the following command in your terminal:
