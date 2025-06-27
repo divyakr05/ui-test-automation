@@ -1,5 +1,5 @@
 # ui-test-automation
-This is simple ui-test-automation project created to test sample flows for airalo application, using Playwright Framework (Python, playwright, PyTest, Page Object Model, HTML Reports)
+This is simple ui-test-automation project created to test sample flows for an application, using Playwright Framework (Python, playwright, PyTest, Page Object Model, HTML Reports)
 
 # Setup Instructions
 - Clone the project https://github.com/divyakr05/ui-test-automation
@@ -31,7 +31,7 @@ After running the tests, you will find a report_home.html file inside the root d
 Approach to implement the testcase:
 - Created a test case "test_verify_package_details" in home_page.py
 - This will automate the following test steps:
-    1. Launch a browser and navigate to airalos website
+    1. Launch a browser and navigate to the website
     2. Type 'Japan' in the search field on the home page, select the destination from the “Local” section in the autocomplete options
     3. On the next page, choose the first eSIM package, and click on the Buy Now button
     4. Verify Package Details in the popup that appears, assert the following details are accurate:
